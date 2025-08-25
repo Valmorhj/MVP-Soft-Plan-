@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/08/04 19:23:40.000.743,=C:\Users\Valmor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/04 19:25:17.000.065,=C:\Users\Valmor\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/08/04 19:33:46.000.133,=C:\Users\Valmor\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/08/04 19:35:09.000.652,C:\Nova pasta\uConexaoDao.pas=C:\Users\Valmor\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/08/04 19:43:15.000.068,C:\Nova pasta\uMainMVP.pas=C:\Users\Valmor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/04 19:43:15.000.068,C:\Nova pasta\uMainMVP.dfm=C:\Users\Valmor\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/08/04 20:10:30.000.540,C:\Nova pasta\ProjectMVP.dproj=C:\Users\Valmor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/08/04 20:34:25.000.605,=C:\Nova pasta\Unit1.pas</Transaction>
+    <Transaction>2025/08/04 20:35:23.000.246,C:\Nova pasta\uViaCEPClient.pas=C:\Nova pasta\Unit1.pas</Transaction>
+    <Transaction>2025/08/24 20:14:17.000.228,=C:\Desafio Tecnico SoftPlan\Unit1.pas</Transaction>
+    <Transaction>2025/08/24 20:20:18.000.572,=C:\Desafio Tecnico SoftPlan\Unit2.pas</Transaction>
+    <Transaction>2025/08/24 20:20:59.000.200,C:\Desafio Tecnico SoftPlan\Unit2.pas=C:\Desafio Tecnico SoftPlan\uConsulta.pas</Transaction>
+    <Transaction>2025/08/24 20:20:59.000.200,C:\Desafio Tecnico SoftPlan\Unit2.dfm=C:\Desafio Tecnico SoftPlan\uConsulta.dfm</Transaction>
+    <Transaction>2025/08/24 20:21:05.000.912,C:\Desafio Tecnico SoftPlan\Unit1.pas=C:\Desafio Tecnico SoftPlan\uDm.pas</Transaction>
+    <Transaction>2025/08/24 20:21:05.000.912,C:\Desafio Tecnico SoftPlan\Unit1.dfm=C:\Desafio Tecnico SoftPlan\uDm.dfm</Transaction>
+    <Transaction>2025/08/24 20:24:47.000.583,C:\Desafio Tecnico SoftPlan\uConsulta.pas=</Transaction>
+    <Transaction>2025/08/24 20:24:55.000.675,C:\Desafio Tecnico SoftPlan\uDm.pas=C:\Desafio Tecnico SoftPlan\uCnsulta.pas</Transaction>
+    <Transaction>2025/08/24 20:24:55.000.675,C:\Desafio Tecnico SoftPlan\uDm.dfm=C:\Desafio Tecnico SoftPlan\uCnsulta.dfm</Transaction>
+    <Transaction>2025/08/24 20:24:59.000.073,C:\Desafio Tecnico SoftPlan\uCnsulta.pas=C:\Desafio Tecnico SoftPlan\uConsulta.pas</Transaction>
+    <Transaction>2025/08/24 20:24:59.000.082,C:\Desafio Tecnico SoftPlan\uConsulta.dfm=C:\Desafio Tecnico SoftPlan\uCnsulta.dfm</Transaction>
+    <Transaction>2025/08/24 20:24:59.000.073,C:\Desafio Tecnico SoftPlan\uCnsulta.dfm=C:\Desafio Tecnico SoftPlan\uConsulta.dfm</Transaction>
+    <Transaction>2025/08/24 20:24:59.000.082,C:\Desafio Tecnico SoftPlan\uConsulta.pas=C:\Desafio Tecnico SoftPlan\uCnsulta.pas</Transaction>
+    <Transaction>2025/08/24 20:25:08.000.871,C:\Desafio Tecnico SoftPlan\uCnsulta.pas=C:\Desafio Tecnico SoftPlan\uConsulta.pas</Transaction>
+    <Transaction>2025/08/24 20:25:08.000.880,C:\Desafio Tecnico SoftPlan\uConsulta.dfm=C:\Desafio Tecnico SoftPlan\uCnsulta.dfm</Transaction>
+    <Transaction>2025/08/24 20:25:08.000.871,C:\Desafio Tecnico SoftPlan\uCnsulta.dfm=C:\Desafio Tecnico SoftPlan\uConsulta.dfm</Transaction>
+    <Transaction>2025/08/24 20:25:08.000.880,C:\Desafio Tecnico SoftPlan\uConsulta.pas=C:\Desafio Tecnico SoftPlan\uCnsulta.pas</Transaction>
+    <Transaction>2025/08/24 20:25:22.000.148,C:\Desafio Tecnico SoftPlan\uCnsulta.pas=C:\Desafio Tecnico SoftPlan\uConsultaEnderecos.pas</Transaction>
+    <Transaction>2025/08/24 20:25:22.000.148,C:\Desafio Tecnico SoftPlan\uCnsulta.dfm=C:\Desafio Tecnico SoftPlan\uConsultaEnderecos.dfm</Transaction>
+    <Transaction>2025/08/24 20:47:13.000.293,=C:\Desafio Tecnico SoftPlan\Unit1.pas</Transaction>
+    <Transaction>2025/08/24 20:49:22.000.988,=C:\Desafio Tecnico SoftPlan\Unit2.pas</Transaction>
+    <Transaction>2025/08/24 20:50:03.000.621,C:\Desafio Tecnico SoftPlan\Unit2.pas=C:\Desafio Tecnico SoftPlan\uConexaoDao.pas</Transaction>
+    <Transaction>2025/08/24 20:50:03.000.621,C:\Desafio Tecnico SoftPlan\Unit2.dfm=C:\Desafio Tecnico SoftPlan\uConexaoDao.dfm</Transaction>
+    <Transaction>2025/08/24 20:51:39.000.761,=C:\Desafio Tecnico SoftPlan\uConexaoDao2.pas</Transaction>
+    <Transaction>2025/08/24 21:28:03.000.139,=C:\Desafio Tecnico SoftPlan\Unit1.pas</Transaction>
+    <Transaction>2025/08/24 21:28:12.000.430,C:\Desafio Tecnico SoftPlan\Unit1.pas=C:\Desafio Tecnico SoftPlan\uConexaoMVP.pas</Transaction>
+    <Transaction>2025/08/24 21:28:12.000.430,C:\Desafio Tecnico SoftPlan\Unit1.dfm=C:\Desafio Tecnico SoftPlan\uConexaoMVP.dfm</Transaction>
+    <Transaction>2025/08/24 21:30:18.000.402,=C:\Desafio Tecnico SoftPlan\Unit1.pas</Transaction>
+    <Transaction>2025/08/24 21:31:06.000.959,=C:\Desafio Tecnico SoftPlan\Unit1.pas</Transaction>
+    <Transaction>2025/08/24 22:52:29.336,C:\Desafio Tecnico SoftPlan\uConexaoMVP.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
