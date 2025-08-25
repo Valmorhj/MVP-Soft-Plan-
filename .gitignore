@@ -1,0 +1,40 @@
+# Delphi temporary files
+*.~*
+*.local
+*.dsk
+*.identcache
+*.map
+*.exe
+*.dll
+*.obj
+*.bpl
+*.dcu
+*.~*
+
+# Arquivos de histórico e backup
+*.bak
+*.old
+*.backup
+*.tmp
+
+# Diretórios de compilação e saída
+\bin\
+\obj\
+\output\
+\Debug\
+\Release\
+
+# Arquivos de cache do editor
+*.grouplist
+*.dproj.local
+*.dproj.user
+*.dsk
+*.ide
+
+# Arquivos de logs
+*.log
+
+# Outros arquivos que podem causar conflito
+*.~*
+Thumbs.db
+.DS_Store
